@@ -9,6 +9,7 @@
 - delete products from the cart
 - cart view
 - select quantity
+- place order 
 ### admin
 - add proudcts
 - delete products
