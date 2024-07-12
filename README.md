@@ -1,4 +1,5 @@
 # E-Commerce App
+- This app was developed using android studio, incoporating Firebase as the database.
 ## Features
 ### user
 - Registration and login authentication
