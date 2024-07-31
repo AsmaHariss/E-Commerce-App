@@ -17,3 +17,7 @@
 - view user details
 - view order details
 - view cart details
+## Technologies Used
+- **Frontend:** Android Studio
+- **Backend:** Firebase
+- **Languages:** Java
